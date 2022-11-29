@@ -1,0 +1,113 @@
+#bgurl{/*ใส่รูป*/
+    text-align: center;
+    background-repeat: no-repeat;
+}
+#bgurl img{/*ปรับขนาดรูป*/
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: contain;
+}
+f{/*สีตัวหนังสือ*/
+    font-size: 30px;
+    text-align: right;
+    color: rgb(255, 20, 20);
+}
+f1{/*สีตัวหนังสือ*/
+    font-size: 30px;
+    text-align: right;
+    color: rgb(255, 251, 0);
+}
+f2{/*สีตัวหนังสือ*/
+    font-size: 30px;
+    text-align: right;
+    color: rgb(0, 255, 76);
+}
+f3{/*สีตัวหนังสือ*/
+    font-size: 30px;
+    text-align: right;
+    color: rgb(0, 255, 255);
+}
+f4{/*สีตัวหนังสือ*/
+    font-size: 30px;
+    text-align: right;
+    color: rgb(255, 0, 234);
+}
+f5{/*สีตัวหนังสือ*/
+    font-size: 30px;
+    text-align: right;
+    color: rgb(255, 255, 255);
+    background-color: rgb(17, 0, 255);
+}
+f6{/*สีตัวหนังสือ*/
+    font-size: 30px;
+    text-align: right;
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 0, 0);
+}
+
+.nav{/*สีพื้นหลัง*/
+    list-style-type: none;
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+}
+.nav li{/*ปรับให้ตัวหนังสือเป็นแถว-ความห่าง*/
+    display: inline-block;
+    padding: 20px;
+    font-size: 20px;
+}
+/*111111111111111111111111111111111111111111111111111111111*/
+
+#bgurll{/*ใส่รูป*/
+    background-repeat: no-repeat;
+
+}
+#bgurll img{/*ปรับขนาดรูป*/
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: contain;
+}
+
+b1{
+    font-size: 30px;
+    text-align: right;
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 255, 13);
+}
+c1{
+    display: inline-block;
+    padding: 20px;
+    font-size: 20px;
+}
+c2{
+    display: inline-block;
+    padding: 20px;
+    font-size: 20px;
+}
+c3{
+    display: inline-block;
+    padding: 20px;
+    font-size: 20px;
+}
+#l{/*ใส่รูป*/
+    background-repeat: no-repeat;
+
+}
+#l img{/*ปรับขนาดรูป*/
+    
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    object-fit: contain;
+}
+
+/*222222222222222222222222222222222222222222222222222*/
+
+d1{
+    font-size: 30px;
+    text-align: right;
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 255, 13);
+}
+
